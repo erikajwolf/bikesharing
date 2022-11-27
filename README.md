@@ -9,31 +9,31 @@ This analysis was created to analyze New York CitiBike data for investors to be 
 
 ## Results
 ### Minutes by Trip Duration
-
+![CheckoutTime](CheckoutTime.png)
 The vast majority of trips are under an hour in length. 
 
 ### Checkout by Gender
-
+![CheckoutByGender](CheckoutByGender.png)
 Men are checking out far more bikes than women or unknown users are. 
 
 ### Trips by Weekday & Hour
-
+![TripsWeekdayHour](TripsWeekdayHour.png)
 Sundays and Saturdays are the overall busiest days that bikes are being used. 7am-9am and 5pm-7pm are the busiest checkout times during the week. 
 
 ### Trips by Gender
-
+![CheckoutTime](CheckoutTime.png)
 Men are taking more trips on the bikes than women, any day of the week. 
 
 ### Trips by Gender and Weekday
-
+![TripsByGender](TripsByGender.png)
 Customers, regardless of gender, take about the same amount of trips, regardless of weekday. Men seem to be subscribed more to the bikeshare program than women, and they consistenly take more trips than either women or unknown subscribers, any day of the week. 
 
 ### Start Station Count
-
+![StartStationCounnt](StartStationCount.png)
 We can see here that there are certain bike stations that are favored by riders to start their trips. 
 
 ### Trip Duaration in Minutes
-
+![TripDurationMinutes](TripDurationMinutes.png)
 We can see that the vast majority of trips last between 4 and 8 minutes.
 
 ## Summary
