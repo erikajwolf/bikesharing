@@ -2,6 +2,10 @@
 
 Tableau Story can be found below:
 
+[[link to dashboard](https://public.tableau.com/app/profile/erika.wolf/viz/Challenge14_16682342268070/Biksharing?publish=yes
+)]([LINK GOES HERE](https://public.tableau.com/app/profile/erika.wolf/viz/Challenge14_16682342268070/Biksharing?publish=yes
+) "link to dashboard")
+
 https://public.tableau.com/app/profile/erika.wolf/viz/Challenge14_16682342268070/Biksharing?publish=yes
 
 ## Overview
