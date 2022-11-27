@@ -1,5 +1,8 @@
 # Citi BikeSharing
 
+Tableau Story can be found below:
+https://public.tableau.com/app/profile/erika.wolf/viz/Challenge14_16682342268070/Biksharing?publish=yes
+
 ## Overview
 This analysis was created to analyze New York CitiBike data for investors to be informed before beginning a bikeshare program elsewhere. This analysis can be used to answer some of the questions below:
   - Who uses the CitiBikes?
