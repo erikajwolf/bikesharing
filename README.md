@@ -1,7 +1,6 @@
 # Citi BikeSharing
 
-Tableau Story can be found below:
-[link to dashboard](https://public.tableau.com/app/profile/erika.wolf/viz/Challenge14_16682342268070/Biksharing?publish=yes "link to dashboard")
+Tableau Story can be found [here](https://public.tableau.com/app/profile/erika.wolf/viz/Challenge14_16682342268070/Biksharing?publish=yes "here")
 
 https://public.tableau.com/app/profile/erika.wolf/viz/Challenge14_16682342268070/Biksharing?publish=yes
 
